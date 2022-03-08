@@ -1,0 +1,24 @@
+.navbar-brand{
+	padding-left: 30px;
+	font-size: 25px;
+}
+
+.jumbotron{
+	padding: 2rem 1rem;
+	background-color: #e2edff;
+	padding-top: 75px;
+}
+.navbar-brand:hover{
+	padding-left: 50px;
+}
+.nav-link:hover{
+	padding-left: 10px;
+	background-color: #e2edff;
+	font-weight: bold;
+}
+#about .container p{
+	text-align: center!important;
+}
+footer{
+	height: 75px;
+}
